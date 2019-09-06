@@ -17,3 +17,11 @@ A few notes to help you get started, in terms of the conventions and syntax of t
 ```bash
 $ clear
 ```
+
+* Words [inside angle brackets] are meant to be placeholders for words or values that should be supplied by the user.
+
+* Most commands can be run with options called "flags" or "parameters."  These will be prefixed by a hyphen or two.  For example:
+
+```bash
+$ ls -la
+```
