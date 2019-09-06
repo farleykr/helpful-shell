@@ -3,7 +3,7 @@ id: development-server
 title: Development Server
 prev: installation
 next: deploying
-layout: home
+layout: page
 ---
 
 ## Running the server

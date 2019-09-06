@@ -4,7 +4,6 @@ import { Helmet } from 'react-helmet';
 import { RouteComponentProps } from '@reach/router';
 
 import { Page } from 'components/layout/Page';
-
 import { Container } from 'components/layout/Container';
 import { DocsWrapper } from 'components/docs/DocsWrapper';
 import { DocsHeader } from 'components/docs/DocsHeader';

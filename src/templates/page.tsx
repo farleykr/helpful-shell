@@ -11,7 +11,7 @@ import { Page } from 'components/layout/Page';
 import { Container } from 'components/layout/Container';
 import { DocsWrapper } from 'components/docs/DocsWrapper';
 import { DocsHeader } from 'components/docs/DocsHeader';
-import { MarkdownContent } from 'components/page/Markdown';
+import MarkdownContent from 'components/page/Markdown/MarkdownContent';
 
 import { FooterWrapper, Footer } from 'components/layout/Footer';
 import { Pagination } from 'components/ui/Pagination';
