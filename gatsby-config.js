@@ -2,8 +2,8 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Grundgesetz',
-    sidebarTitle: 'Grundgesetz',
+    title: 'helpfulshell.info',
+    sidebarTitle: 'helpfulshell.info',
     description: 'Zero-configuration documentation builder, powered by Gatsby.',
     siteUrl: 'https://grundgesetz-skeleton.netlify.com',
     keywords: 'gatsbyjs, gatsby, documentation, sample project',
