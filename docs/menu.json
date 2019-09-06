@@ -1,14 +1,14 @@
 [
   {
-    "id": "getting-started",
-    "label": "Getting Started",
-    "href": "/getting-started/installation",
+    "id": "before-getting-started",
+    "label": "Before Getting Started",
+    "href": "/explore-commands/before-getting-started",
     "external": false
   },
   {
     "id": "github",
     "label": "GitHub",
-    "href": "https://github.com/kata-ai/grundgesetz-skeleton",
+    "href": "https://github.com/farleykr/helpful-shell",
     "external": true
   }
 ]

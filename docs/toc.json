@@ -1,41 +1,31 @@
 [
   {
-    "title": "Getting Started",
+    "title": "Explore Commands",
     "items": [
       {
-        "id": "installation",
-        "slug": "/getting-started/installation",
-        "title": "Installation"
+        "id": "before-getting-started",
+        "slug": "/explore-commands/before-getting-started",
+        "title": "Before Getting Started"
       },
       {
-        "id": "development-server",
-        "slug": "/getting-started/development-server",
-        "title": "Development Server"
+        "id": "navigate-file-system",
+        "slug": "/explore-commands/navigate-file-system",
+        "title": "Navigate the File System"
       },
       {
-        "id": "deploying",
-        "slug": "/getting-started/deploying",
-        "title": "Deploying"
-      }
-    ]
-  },
-  {
-    "title": "Writing",
-    "items": [
-      {
-        "id": "project-structure",
-        "slug": "/writing/project-structure",
-        "title": "Project Structure"
+        "id": "create-edit-delete-files",
+        "slug": "/explore-commands/create-edit-delete-files",
+        "title": "Create, Edit, and Delete Files"
       },
       {
-        "id": "table-of-contents",
-        "slug": "/writing/table-of-contents",
-        "title": "Table of Contents"
+        "id": "search-files-and-contents",
+        "slug": "/explore-commands/search-files-and-contents",
+        "title": "Search Files and Their Contents"
       },
       {
-        "id": "writing-in-markdown",
-        "slug": "/writing/writing-in-markdown",
-        "title": "Writing in Markdown"
+        "id": "remote-server-login",
+        "slug": "/explore-commands/remote-server-login",
+        "title": "Remote Server Login"
       }
     ]
   }
