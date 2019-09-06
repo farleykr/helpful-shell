@@ -2,6 +2,7 @@
 id: installation
 title: Installation
 next: development-server
+layout: home
 ---
 
 ## Prerequisites

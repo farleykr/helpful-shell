@@ -3,6 +3,7 @@ id: deploying
 title: Deploying
 prev: development-server
 next: project-structure
+layout: home
 ---
 
 The following page contains guides on how to deploy Grundgesetz to any host that you prefer.

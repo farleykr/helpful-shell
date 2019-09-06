@@ -3,6 +3,7 @@ id: table-of-contents
 title: Table of Contents
 prev: project-structure
 next: writing-in-markdown
+layout: home
 ---
 
 The `toc.json` file inside the `docs/` folder holds our table of contents. It will be automatically populated on the left-side drawer as a sectioned menu.

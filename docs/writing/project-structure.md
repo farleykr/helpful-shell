@@ -3,6 +3,7 @@ id: project-structure
 title: Project Structure
 prev: deploying
 next: table-of-contents
+layout: home
 ---
 
 The project structure of Grundgesetz is specifically designed for easy maintenance of documentation and the site's code.
